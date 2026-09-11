@@ -6,7 +6,6 @@ A collection of simple Flat Assembler (FASM) code examples, including Windows AP
 
 ```text
 flat-assembler-examples/
-├── cheatsheet.txt
 ├── 01-basics-and-math/
 │   ├── basics_and_math.ASM
 │   ├── custom_number_function.ASM
