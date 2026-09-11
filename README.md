@@ -15,8 +15,8 @@ flat-assembler-examples/
 │   ├── condition_else_if.ASM
 │   └── condition_if_else.ASM
 └── 03-windows-api/
-    ├── messagebox_and_shellexecute.asm
-    └── simple_sound_recorder.asm
+    ├── messagebox_and_shellexecute.ASM
+    └── simple_sound_recorder.ASM
 ```
 ## Requirements
 
