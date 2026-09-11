@@ -20,3 +20,4 @@ flat-assembler-examples/
 ```
 ## Getting Started
 
+[Download Flat Assembler (FASM)](https://flatassembler.net/)
