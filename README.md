@@ -8,7 +8,6 @@ A collection of simple Flat Assembler (FASM) code examples, including Windows AP
 flat-assembler-examples/
 ├── 01-basics-and-math/
 │   ├── basics_and_math.ASM
-│   ├── custom_number_function.ASM
 │   └── pointers_functions.ASM
 ├── 02-control-flow/
 │   ├── array_loop.ASM
