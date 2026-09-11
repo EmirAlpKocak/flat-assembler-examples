@@ -34,4 +34,4 @@ When adding an example, please keep it:
 
 # License
 
-This repository is licensed under MIT License. See LICENSE.md file for more info.
+This repository is licensed under MIT License. See LICENSE file for more info.
